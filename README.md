@@ -6,7 +6,8 @@ O projeto é um conjunto de jogos interativo pelo terminal
 ![Badge](https://img.shields.io/badge/STATUS-desenvolvendo-%237159c1?style=for-the-badge&logo=ghost)
 
 <br><br>
-![image](https://user-images.githubusercontent.com/108475403/208705043-11c5dfc0-d033-4823-b4a6-8929d2e9d133.png)
+![image](https://user-images.githubusercontent.com/108475403/215638179-351b51f7-726d-4059-8f21-c46d2c4909b3.png)
+
 <br><br>
 ## 📝 DESCRIÇÃO 📝
 O GameHub é uma simulação de hub de jogos no console, onde é possivel optar por jogar entre 2 jogos: jogo da velha e batalha naval, 
