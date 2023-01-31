@@ -24,20 +24,14 @@
     "GameScoreBattleship": 4
   },
   {
-    "Name": "Amora",
-    "Key": "123",
-    "GameScoreTicTacToe": 1,
-    "GameScoreBattleship": 0
-  },
-  {
-    "Name": "Teste",
-    "Key": "test",
+    "Name": "teste",
+    "Key": "tetse",
     "GameScoreTicTacToe": 0,
     "GameScoreBattleship": 0
   },
   {
-    "Name": "Amora123",
-    "Key": "123",
+    "Name": "amora11",
+    "Key": "11",
     "GameScoreTicTacToe": 1,
     "GameScoreBattleship": 1
   }

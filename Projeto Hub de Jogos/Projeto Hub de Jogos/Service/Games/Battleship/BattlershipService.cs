@@ -248,7 +248,7 @@ namespace Projeto_Hub_de_Jogos.Service.Games.Battleship
 
             if (BoardTemplate[rowInt, collun] == "i")
             {
-                player.GameScoreBattleship++;
+                //player.GameScoreBattleship++;
                 //ship
                 return true;
             }
