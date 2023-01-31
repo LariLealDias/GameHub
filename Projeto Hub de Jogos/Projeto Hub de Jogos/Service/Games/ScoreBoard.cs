@@ -200,7 +200,7 @@ namespace Projeto_Hub_de_Jogos.Service.Games
                 Console.WriteLine();
                 Console.WriteLine();
                 Console.ReadLine();
-                Console.Write("   Digite enter para voltar");
+                Console.WriteLine("   Digite enter para voltar");
             }
         }
     }

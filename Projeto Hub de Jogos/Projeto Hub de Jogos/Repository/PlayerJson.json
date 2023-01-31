@@ -34,5 +34,11 @@
     "Key": "test",
     "GameScoreTicTacToe": 0,
     "GameScoreBattleship": 0
+  },
+  {
+    "Name": "Amora123",
+    "Key": "123",
+    "GameScoreTicTacToe": 1,
+    "GameScoreBattleship": 1
   }
 ]
