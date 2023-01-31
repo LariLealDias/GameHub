@@ -1,0 +1,17 @@
+C:\Users\laril\OneDrive\Documentos\Ima - Sharp Coders\Projetos\Projeto Hub\Projeto Hub de Jogos\Projeto Hub de Jogos\bin\Debug\net6.0\Projeto Hub de Jogos.exe
+C:\Users\laril\OneDrive\Documentos\Ima - Sharp Coders\Projetos\Projeto Hub\Projeto Hub de Jogos\Projeto Hub de Jogos\bin\Debug\net6.0\Projeto Hub de Jogos.deps.json
+C:\Users\laril\OneDrive\Documentos\Ima - Sharp Coders\Projetos\Projeto Hub\Projeto Hub de Jogos\Projeto Hub de Jogos\bin\Debug\net6.0\Projeto Hub de Jogos.runtimeconfig.json
+C:\Users\laril\OneDrive\Documentos\Ima - Sharp Coders\Projetos\Projeto Hub\Projeto Hub de Jogos\Projeto Hub de Jogos\bin\Debug\net6.0\Projeto Hub de Jogos.dll
+C:\Users\laril\OneDrive\Documentos\Ima - Sharp Coders\Projetos\Projeto Hub\Projeto Hub de Jogos\Projeto Hub de Jogos\bin\Debug\net6.0\Projeto Hub de Jogos.pdb
+C:\Users\laril\OneDrive\Documentos\Ima - Sharp Coders\Projetos\Projeto Hub\Projeto Hub de Jogos\Projeto Hub de Jogos\obj\Debug\net6.0\Projeto Hub de Jogos.csproj.AssemblyReference.cache
+C:\Users\laril\OneDrive\Documentos\Ima - Sharp Coders\Projetos\Projeto Hub\Projeto Hub de Jogos\Projeto Hub de Jogos\obj\Debug\net6.0\Projeto Hub de Jogos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laril\OneDrive\Documentos\Ima - Sharp Coders\Projetos\Projeto Hub\Projeto Hub de Jogos\Projeto Hub de Jogos\obj\Debug\net6.0\Projeto Hub de Jogos.AssemblyInfoInputs.cache
+C:\Users\laril\OneDrive\Documentos\Ima - Sharp Coders\Projetos\Projeto Hub\Projeto Hub de Jogos\Projeto Hub de Jogos\obj\Debug\net6.0\Projeto Hub de Jogos.AssemblyInfo.cs
+C:\Users\laril\OneDrive\Documentos\Ima - Sharp Coders\Projetos\Projeto Hub\Projeto Hub de Jogos\Projeto Hub de Jogos\obj\Debug\net6.0\Projeto Hub de Jogos.csproj.CoreCompileInputs.cache
+C:\Users\laril\OneDrive\Documentos\Ima - Sharp Coders\Projetos\Projeto Hub\Projeto Hub de Jogos\Projeto Hub de Jogos\obj\Debug\net6.0\Projeto Hub de Jogos.dll
+C:\Users\laril\OneDrive\Documentos\Ima - Sharp Coders\Projetos\Projeto Hub\Projeto Hub de Jogos\Projeto Hub de Jogos\obj\Debug\net6.0\refint\Projeto Hub de Jogos.dll
+C:\Users\laril\OneDrive\Documentos\Ima - Sharp Coders\Projetos\Projeto Hub\Projeto Hub de Jogos\Projeto Hub de Jogos\obj\Debug\net6.0\Projeto Hub de Jogos.pdb
+C:\Users\laril\OneDrive\Documentos\Ima - Sharp Coders\Projetos\Projeto Hub\Projeto Hub de Jogos\Projeto Hub de Jogos\obj\Debug\net6.0\Projeto Hub de Jogos.genruntimeconfig.cache
+C:\Users\laril\OneDrive\Documentos\Ima - Sharp Coders\Projetos\Projeto Hub\Projeto Hub de Jogos\Projeto Hub de Jogos\obj\Debug\net6.0\ref\Projeto Hub de Jogos.dll
+C:\Users\laril\OneDrive\Documentos\Ima - Sharp Coders\Projetos\Projeto Hub\Projeto Hub de Jogos\Projeto Hub de Jogos\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\laril\OneDrive\Documentos\Ima - Sharp Coders\Projetos\Projeto Hub\Projeto Hub de Jogos\Projeto Hub de Jogos\obj\Debug\net6.0\Projeto Hub de Jogos.csproj.CopyComplete

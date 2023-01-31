@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "amora",
+    "Key": "123",
+    "GameScoreTicTacToe": 1,
+    "GameScoreBattleship": 0
+  },
+  {
+    "Name": "lari",
+    "Key": "123",
+    "GameScoreTicTacToe": 10,
+    "GameScoreBattleship": 3
+  },
+  {
+    "Name": "Lari33",
+    "Key": "33",
+    "GameScoreTicTacToe": 4,
+    "GameScoreBattleship": 1
+  },
+  {
+    "Name": "Rick123",
+    "Key": "123",
+    "GameScoreTicTacToe": 0,
+    "GameScoreBattleship": 0
+  }
+]
