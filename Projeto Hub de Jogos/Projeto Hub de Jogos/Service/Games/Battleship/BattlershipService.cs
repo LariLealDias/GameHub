@@ -166,6 +166,7 @@ namespace Projeto_Hub_de_Jogos.Service.Games.Battleship
                 }
             }
         }
+
         //inserir posição 
         public bool VerifyCollAndRowInput(Player name)
         {

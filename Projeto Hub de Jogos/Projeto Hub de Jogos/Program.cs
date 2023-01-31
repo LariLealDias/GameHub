@@ -184,12 +184,14 @@ namespace Intro
                 {
                     case 1:
                         ShowHeader("Jogo da velha");
-                        ticTactToe.Play(player1.GetLoginName(), player2.GetLoginName());
+                        ToPlayOrSeeRulesTicTacToe();
+                        //ticTactToe.Play(player1.GetLoginName(), player2.GetLoginName());
                         ShowGameMenu();
                         break;
                     case 2:
                         ShowHeader("Batalha Naval");
-                        battlership.Play(player1, player2);
+                        ToPlayOrSeeRulesBattlership();
+                        //battlership.Play(player1, player2);
                         break;
                     case 3:
                         score.ShowGeralScore(player1, player2);

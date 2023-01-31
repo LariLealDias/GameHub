@@ -14,12 +14,24 @@
   {
     "Name": "Lari33",
     "Key": "33",
-    "GameScoreTicTacToe": 4,
+    "GameScoreTicTacToe": 5,
     "GameScoreBattleship": 1
   },
   {
     "Name": "Rick123",
     "Key": "123",
+    "GameScoreTicTacToe": 3,
+    "GameScoreBattleship": 4
+  },
+  {
+    "Name": "Amora",
+    "Key": "123",
+    "GameScoreTicTacToe": 1,
+    "GameScoreBattleship": 0
+  },
+  {
+    "Name": "Teste",
+    "Key": "test",
     "GameScoreTicTacToe": 0,
     "GameScoreBattleship": 0
   }
