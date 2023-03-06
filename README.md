@@ -3,7 +3,7 @@ O projeto é um conjunto de jogos interativo pelo terminal
 <br><br>
 
 ## ⚙️ STATUS ⚙️
-![Badge](https://img.shields.io/badge/STATUS-desenvolvendo-%237159c1?style=for-the-badge&logo=ghost)
+![Badge](https://img.shields.io/badge/status-%20finished-brightgreen)
 
 <br><br>
 ![image](https://user-images.githubusercontent.com/108475403/215638179-351b51f7-726d-4059-8f21-c46d2c4909b3.png)
